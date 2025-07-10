@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <a href="https://github.com/Rohitrane26">GitHub</a> |
-  <a href="https://www.linkedin.com/in/akshay-nehete">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rohit-rane26">LinkedIn</a>
 </h3>
   <h2> Hi 👋, I'm Rohit </h2>
 </div>
