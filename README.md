@@ -15,7 +15,7 @@
 
 # Intro
 
-## Name: Rohit Jatant Rane
+## Name: Rohit Jayant Rane
 
 ## Education: B.Tech CSE
 
