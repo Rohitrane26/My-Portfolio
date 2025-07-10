@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-   <img src='https://github.com/Akshay-arc/My-Portfolio/blob/63628724188aad219abc75115ef7d507b994d12f/image-236x212.png' />
+   <img src='oiwckc' />
 
 
 <h3 align="center">
@@ -19,7 +19,7 @@
 
 ## Education: B.Tech CSE
 
-## Contact:<h3> ranerohit952@gmail.com </h3>
+## Contact: ranerohit952@gmail.com
 
 Welcome to the Project report! This README document provides an overview of the project.
 
